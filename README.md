@@ -76,7 +76,7 @@
     - 💬 Ask me about music that actually playing and why <br>
     - 📫 How to reach me: <a href="https://wa.me/5544722244" target="_blank">Whatsapp</a> <br>
     - 😄 Pronouns: he <br>
-    - ⚡ Fun fact: I'm a person obsessed with cleanliness, if I see something dirty I want to clean it internally <br>
+    - ⚡ Fun fact: I'm a person obsessed with cleanliness, if I see something dirty, inside me, I want to clean it  <br>
   </div>
   <div class="top stats" align="center">
 
