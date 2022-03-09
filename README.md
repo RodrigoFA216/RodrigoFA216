@@ -6,13 +6,13 @@
     <a href="https://www.linkedin.com/in/rodrigo-flores-ea/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL" target="_blank">
+    <a href="https://youtube.com/channel/UCcxm_sTpaIzdYY0D2Jfs4xA" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://www.facebook.com/roy.fa.712/" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="your-twitter-URL" target="_blank">
+    <a href="https://wa.me/5544722244" target="_blank">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
   </div>
@@ -23,7 +23,7 @@
     
 ---
 
-### :hammer_and_wrench: Languages :
+### 🉑 Languages :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,14 +35,14 @@
   
 ---
 
-### :hammer_and_wrench: Frameworks :
+### ⚛ Frameworks :
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 
 ---
 
-### :hammer_and_wrench: Tools :
+### ⚒ Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
@@ -53,35 +53,39 @@
   
 ---
 
-### :hammer_and_wrench: Operative systems :
+### 🖥 Operative systems :
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   
 ---
 
-### :hammer_and_wrench: Platforms :
+### 🧰 Platforms :
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry" alt="Raspberry" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
 
 </div>
   </div>
+  <div class="about">
+    - 🔭 I’m currently working on be a good back end developer <br>
+    - 🌱 I’m currently learning mongo DB and NodeJS <br>
+    - 👯 I’m looking to collaborate on front end projects <br>
+    - 🤔 I’m looking for help with PHP and create a database from 0 to hero <br>
+    - 💬 Ask me about music that actually playing and why <br>
+    - 📫 How to reach me: <a href="https://wa.me/5544722244" target="_blank">Whatsapp</a> <br>
+    - 😄 Pronouns: he <br>
+    - ⚡ Fun fact: I'm a person obsessed with cleanliness, if I see something dirty I want to clean it internally <br>
+  </div>
+  <div class="top stats" align="center">
+
+---    
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFA216&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RodrigoFA216&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    
+---
+  </div>
 </div>
-### Hi there 👋
 
 
-
-
-<!--
-**RodrigoFA216/RodrigoFA216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
