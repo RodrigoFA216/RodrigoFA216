@@ -1,6 +1,7 @@
 <div class="body">
+  
   <div class="header" align="center">
-    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="30%"/>
+    <img src="https://media.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="30%"/>
   </div>
   <div class="badges" align="center">
     <a href="https://www.linkedin.com/in/rodrigo-flores-ea/" target="_blank">
@@ -34,8 +35,13 @@
   </div>
   <div class="body">
     
----
 
+  <div class="header" align="center">
+    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="30%"/>
+  </div>
+    
+---
+    
 ### 🉑 Languages :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
