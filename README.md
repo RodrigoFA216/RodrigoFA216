@@ -19,6 +19,19 @@
   <div class="visitors" align="center">
     <img src="https://komarev.com/ghpvc/?username=RodrigoFA216&style=flat-square&color=blue" alt=""/>
   </div>
+  <div class="top-stats" align="center">
+
+---    
+### :fire: My Stats :
+
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFA216&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RodrigoFA216&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoFA216&show_icons=true&theme=dark)
+
+    
+  </div>
   <div class="body">
     
 ---
@@ -78,21 +91,7 @@
     - 😄 Pronouns: he <br>
     - ⚡ Fun fact: I'm a person obsessed with cleanliness, if I see something dirty, inside me, I want to clean it  <br>
   </div>
-  <div class="top stats" align="center">
-
----    
-### :fire: My Stats :
-
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFA216&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RodrigoFA216&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoFA216&show_icons=true&theme=dark)
-
-    
----
-  </div>
+  
 </div>
 
 
