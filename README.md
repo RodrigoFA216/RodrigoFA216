@@ -84,7 +84,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry" alt="Raspberry" width="40" height="40"/>
 
-
+---
+  
 </div>
   </div>
   <div class="about">
