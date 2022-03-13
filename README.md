@@ -1,7 +1,7 @@
 <div class="body">
   
   <div class="header" align="center">
-    <img src="https://media.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="30%"/>
+    <img src="https://media.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="40%"/>
   </div>
   <div class="badges" align="center">
     <a href="https://www.linkedin.com/in/rodrigo-flores-ea/" target="_blank">
