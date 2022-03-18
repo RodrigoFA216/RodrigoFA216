@@ -51,7 +51,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/RodrigoFA216/RodrigoFA216/blob/main/type%20script.png" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/RodrigoFA216/RodrigoFA216/blob/main/TYPESCRIPT-G.png" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
 
 
   
