@@ -1,8 +1,10 @@
 <div class="body">
-  
   <div class="header" align="center">
-    <img src="https://media.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="40%"/>
+    <h1>Rodrigo Flores</h1>
+    <h2>Back End Developer</h2>
+    <h3>Living in MX </h3>
   </div>
+  
   <div class="badges" align="center">
     <a href="https://www.linkedin.com/in/rodrigo-flores-ea/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -37,7 +39,7 @@
     
 
   <div class="header" align="center">
-    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="30%"/>
+    <img src="https://media.giphy.com/media/X43G5mWHLs8Imkv9Aa/giphy.gif" width="40%"/>
   </div>
     
 ---
