@@ -2,7 +2,7 @@
   <div class="header" align="center">
     <h1>Rodrigo Flores</h1>
     <h2>Back End Developer</h2>
-    <h3>Living in MX </h3>
+    <h3>Living in MX Open to work around the world</h3>
   </div>
   
   <div class="badges" align="center">
