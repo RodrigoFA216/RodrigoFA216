@@ -2,7 +2,7 @@
   <div class="header" align="center">
     <h1>Rodrigo Flores</h1>
     <h2>Back End Developer</h2>
-    <h3>Living in MX Open to work around the world</h3>
+    <h3>Living in MX Open to work around the world</h3> <br>
   </div>
   
   <div class="badges" align="center">
@@ -19,6 +19,7 @@
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white" alt="Whatsapp Badge"/>
     </a>
   </div>
+  <br>
   <div class="visitors" align="center">
     <img src="https://komarev.com/ghpvc/?username=RodrigoFA216&style=flat-square&color=blue" alt=""/>
   </div>
