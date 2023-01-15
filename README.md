@@ -205,13 +205,13 @@
 </div>
   </div>
   <div class="about">
-    - 🔭 I’m currently working on be a good back end developer <br>
-    - 🌱 I’m currently learning mongo DB and NodeJS <br>
-    - 👯 I’m looking to collaborate on front end projects <br>
-    - 🤔 I’m looking for help with PHP and create a database from 0 to hero <br>
+    - 🔭 I’m currently working on code backend with multiple lenguages and frameworks like Ruby on Rails and Laravel <br>
+    - 🌱 I’m currently learning Deploy on public PaaS <br>
+    - 👯 I’m looking to collaborate on Back-end projects <br>
+    - 🤔 I’m looking for help with PHP <br>
     - 💬 Ask me about music that actually playing and why <br>
     - 📫 How to reach me: <a href="https://wa.me/5544722244" target="_blank">Whatsapp</a> <br>
-    - 😄 Pronouns: he <br>
+    - 😄 Pronouns: he/him <br>
     - ⚡ Fun fact: I'm a person obsessed with cleanliness, if I see something dirty, inside me, I want to clean it  <br>
   </div>
   
