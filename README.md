@@ -27,13 +27,15 @@
 ---    
 ### :fire: My Stats :
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFA216&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFA216&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RodrigoFA216&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-    
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoFA216&show_icons=true&theme=dark)
 
-[![Rodrigo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RodrigoFA216&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RodrigoFA216&count_private=true&show_icons=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoFA216&show_icons=true&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Rodrigo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RodrigoFA216&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
   </div>
   <div class="body">
