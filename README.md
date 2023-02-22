@@ -1,5 +1,7 @@
 <div align="center">
   
+
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=6000&pause=500&color=007EF7&center=true&width=600&height=70&lines=Rodrigo+E.+Flores)](https://git.io/typing-svg)
   
 </div>
@@ -202,7 +204,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   
 ---
-
+<div align="center">
+  
+[![a](https://github-profile-trophy.vercel.app/?username=RodrigoFA216&theme=matrix)](https://github.com/RodrigoFA216)
+  
+</div>
   
 </div>
   </div>
