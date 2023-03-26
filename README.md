@@ -34,7 +34,7 @@
    <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=RodrigoFA216&count_private=true&show_icons=true&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFA216&count_private=true&show_icons=true&theme=tokyonight&langs_count=10&layout=compact"/>
    
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RodrigoFA216)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
